@@ -1,8 +1,6 @@
-package com.codingeagles.storyshow;
-
 import java.util.Date;
 
-public class Utils {
+public class TimeAgo {
 
     public static String getDurationBetweenDates(Date d1, Date d2) {
 
